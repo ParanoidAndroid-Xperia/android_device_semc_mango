@@ -3,7 +3,7 @@
 
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
 TARGET_KERNEL_CONFIG := pa_mango_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-gnueabihf-linaro-4.7
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7.3
 
 TARGET_RECOVERY_INITRC := device/semc/mango/recovery/init.rc
 
